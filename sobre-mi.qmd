@@ -17,8 +17,6 @@ about:
       href: assets/pdf/cv.pdf
 ---
 
-Hola soy Alejandra Lopez.
-
 Soy científico de datos con experiencia en la ciencia de datos. Me formé en
 STATO PRO y me apasiona resolver problemas complejos utilizando datos. He
 trabajado con proyectos que van desde análisis exploratorio hasta modelos en
